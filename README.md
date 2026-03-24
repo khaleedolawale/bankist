@@ -17,7 +17,8 @@ https://bankist6.netlify.app/
 ---
 
 ## 📸 Screenshot
-![Bankist App Preview](screenshot.png)
+![Bankist App Preview](image/bank1.png)
+![Bankist App Preview](image/bank2.png)
 
 ---
 
